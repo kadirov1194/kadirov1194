@@ -1,3 +1,7 @@
+Hello,👋  I'm Kodirov Shokhrukh! 👨‍💻 <br/>
+💻 I’m currently working on Machine Learning and Deep Learning concepts. <br/>
+🌱 I’m currently learning Deep learning algorithms.<br/>
+💬 Ask me about my goals and accomplishments<br/>
 
 <div id="badges">
   <a href="your-linkedin-URL">
@@ -15,11 +19,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-👨‍💻: About Me :<br/>
-Kodirov Shokhrukh <br/>
-I am a Data Scientist.<br/>
-Doing research in Machine learning and Deep Learning AI Models.<br/>
 
+💻 Programming Languages I use: <br/>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
