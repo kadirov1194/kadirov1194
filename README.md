@@ -1,7 +1,3 @@
-Hello,👋  I'm Kodirov Shokhrukh! 👨‍💻 <br/>
-💻 I’m currently working on Machine Learning and Deep Learning concepts. <br/>
-🌱 I’m currently learning Deep learning algorithms.<br/>
-💬 Ask me about my goals and accomplishments<br/>
 
 <div id="badges">
   <a href="your-linkedin-URL">
